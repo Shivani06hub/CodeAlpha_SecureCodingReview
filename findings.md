@@ -81,4 +81,3 @@ aggregators — this leaks credentials outside the app.
 5. Run `bandit` (or similar SAST tools) as part of CI/CD before merging code.
 
 ---
-*This review was conducted as part of the CodeAlpha Cyber Security Internship — Task 3: Secure Coding Review.*
