@@ -38,4 +38,4 @@ common vulnerabilities and providing fixed, remediated code.
 Full details, risk ratings, and fixes → see [`findings.md`](./findings.md).
 
 ## 👤 Author
-Shivani — CodeAlpha Cyber Security Intern
+Shivani Mandoliya — CodeAlpha Cyber Security Intern
