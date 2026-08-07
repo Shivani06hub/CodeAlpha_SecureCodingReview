@@ -1,4 +1,4 @@
-# CodeAlpha_SecureCodingReview
+# SecureCodingReview
 
 ## 📌 Task
 Secure Coding Review — **CodeAlpha Cyber Security Internship (Task 3)**.
@@ -38,4 +38,4 @@ common vulnerabilities and providing fixed, remediated code.
 Full details, risk ratings, and fixes → see [`findings.md`](./findings.md).
 
 ## 👤 Author
-Shivani Mandoliya — CodeAlpha Cyber Security Intern
+Shivani Mandoliya
